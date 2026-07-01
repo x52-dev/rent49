@@ -1,9 +1,13 @@
-# rent49
+# @rent49
 
-#################### what is this? what's the use? ###############
+#################### #################### 
+What is this?         What's the use?
+#################### #################### 
+
+
 This is an ecommerce CRM platform in making. The purpose of this project is to use gold industry standard practices and make an enterprise grade software. Since CRM and e-commerce are two of most recuuring projects. Decided to make something similar. 
 
-This will include, authentication (server side and clientside) , logging, payment system, billing, push notification, role based access. 
+This will include, microservices, authentication (server side and clientside) , logging, payment system, billing, push notification, role based access. 
 
 
 
